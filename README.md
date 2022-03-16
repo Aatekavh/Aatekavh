@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aatekavh
+- 👋 Hi, I’m @Aateka
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning cypress
 - 💞️ I’m looking to collaborate on Software Automation, Development
