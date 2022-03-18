@@ -1,0 +1,12 @@
+describe('Existing account', () => {
+    it('checking existing account', () => {
+        cy.request('POST','https://www.arcgis.com/sharing/rest/oauth2/createUser?id=PJ9oeiOtTvxoAyxB/:192.168.1.11:61758/users',
+        {
+        users: {
+            username : 'myusername',
+            email : 'email',
+            password:'pw'
+            }
+        })
+    })
+})
